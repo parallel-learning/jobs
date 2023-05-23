@@ -3,7 +3,7 @@
 
 ## What is the structure of your engineering team? What engineering processes do you employ?
 
-We're in that small scrappy startup mode. We're flat from an engineering and product perspective. Our team is small (< 3 engineers and 1 product person) so you're going to want to like to own a lot of things from start to finish. We deal in features; architecture and clean code are important to us and you'll be glad to know we sit in chairs, not ivory towers. You're empowered from the start to make immediate and meaningful contributions to the product.
+We're in that small scrappy startup mode. We're flat from an engineering and product perspective. Our team is small (3 engineers and 1 product person) so you're going to want to like to own a lot of things from start to finish. We deal in features; architecture and clean code are important to us and you'll be glad to know we sit in chairs, not ivory towers. You're empowered from the start to make immediate and meaningful contributions to the product.
 
 We also work hand in hand with our Product lead when it comes to building things. At Parallel, the engineers are engaged from the start; we spend around 10-15% of the time hashing out and understanding the work in a refinement process. You're not waiting for your boss to hand you work ya know?
 
