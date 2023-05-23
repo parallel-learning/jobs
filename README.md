@@ -21,9 +21,9 @@ It's not all standard "web-work". We're flexible in the tools that we employ; bu
 
 Your work has immediate impact on the lives of kids, teens and seasoned therapy providers. You're going to think about your customers in a different way.
 
-We also favor a lean architecture. There isn't a ton of huge big-metal, big-data work at the moment; We get along quite easily with Google Cloud and batteries included tech when appropriate.  The team will challenge you to keep solutions lean, mighty and nimble! 
+We also favor a lean architecture. There isn't a ton of huge big-metal, on-premise work here; We get along quite easily with Google Cloud and batteries included tech when appropriate.  The team will challenge you to keep solutions lean, mighty and nimble! 
 
 ## Current Roles
 
-[We're hiring a full stack engineer](https://grnh.se/be63a9065us) at parallel learning. 
+[We're hiring a Senior Software Engineering Manager](https://app5.greenhouse.io/sdash/4195699005) at parallel learning. 
 
